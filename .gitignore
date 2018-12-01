@@ -1,4 +1,6 @@
 target
 project/.boot/
 project/.ivy/
+project/.sbtboot/
+
 
